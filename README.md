@@ -1,5 +1,10 @@
 # Daily-Sales-Analysis-Dashboard--Google-Sheet
 
+
+<p align="center">
+  <img src="Photo.png" alt="Dashboard Cover" width="800"/>
+</p>
+
 # 📊 Daily Sales Analysis Dashboard
 
 A comprehensive multi-brand daily sales tracking and analysis dashboard built entirely in **Google Sheets / Excel**, using advanced formulas for real-time reporting across brands, locations, and time periods.
