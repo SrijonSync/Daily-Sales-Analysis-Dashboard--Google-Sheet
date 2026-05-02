@@ -41,22 +41,17 @@ The workbook contains **22 sheets**, all driven by the `DATA` sheet:
 | `Date` | Daily view with targets vs actuals |
 | `Brand` | Brand-wise performance with filters |
 | `Location` | Location-wise breakdown |
-| `Location1` | Cross-brand location matrix |
 | `Month` | Monthly summary with targets |
 | `MoM` | Month-over-Month comparison |
 | `DAY WISE` | Day-of-week performance analysis |
 | `TARGET` | Budget/target per brand & location |
 | `Avg. Sales` | Average daily sales by month |
 | `Mnth & Mnth` | Side-by-side monthly brand comparison |
-| `Details` | Daily brand-wise totals |
-| `Summary-2` | Today / MTD / YTD summary |
-| `TSM` | Territory Sales Manager wise report |
 | `Summ_Location` | Location-wise Today/MTD/YTD |
 | `Daily Input Check` | Input validation per outlet |
 | `Sales SameCurrent Store` | Same-store sales comparison across years |
 | `CC SameCurrent Store` | Same-store customer count comparison |
 | `ABV SameCurrent Store` | Same-store average bill value comparison |
-| `INFO` | Brand-Location-TSM-BM master mapping |
 
 ---
 
